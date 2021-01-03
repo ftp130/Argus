@@ -3,6 +3,7 @@
 /Bin/TestArgus_autogen
 /Bin/cmake_install.cmake
 /Bin/Makefile
+/Bin/CMakeCache.txt
 /TestArgus/opencv450/etc
 /TestArgus/opencv450/x64/mingw/lib
 
